@@ -1,0 +1,2 @@
+apt-get install pdftk
+pdftk form.pdf dump_data_fields > data_fields.txt

@@ -1,0 +1,86 @@
+{% extends "layout.html" %}
+{% block body %}
+  {% if session.logged_in %}
+    <form action="{{ url_for('add_entry') }}" method=post class=add-entry>
+      <dl>
+        <dt>Check if you only want to apply for Medicare Savings Programs
+        <dd><input type="checkbox" name="msp" value="Yes">
+        <dt>First name:
+        <dd><input type="text" size="30" name="name_first">
+        <dt>Middle initial:
+        <dd><input type="text" size="5" name="name_mi">
+        <dt>Last name:
+        <dd><input type="text" size="30" name="name_last">
+        <dt>Date of birth:
+        <dd><input type="date" name="dob">
+        <dt>Sex:
+        <dd><input type="radio" name="sex" value="Male">Male
+            <input type="radio" name="sex" value="Female">Female
+        <dt>Social security number:
+        <dd><input type="text" name="ssn">
+        <dt>Marital status:
+        <dd><input type="text" name="marital_status">
+        <dt>Home phone number:
+        <dd><input type="text" name="phone">
+        <dt>Other phone number:
+        <dd><input type="text" name="phone_other">
+        <dt>Street address:
+        <dd><input type="text" name="address">
+        <dt>City:
+        <dd><input type="text" name="city">
+        <dt>State:
+        <dd><input type="text" name="state">
+        <dt>Zip code:
+        <dd><input type="text" name="zip">
+        <dt>County:
+        <dd><input type="text" name="county">
+        <dt>Mailing address (if different):
+        <dd><input type="text" name="mailing_address">
+        <dt>City:
+        <dd><input type="text" name="mailing_city">
+        <dt>State:
+        <dd><input type="text" name="mailing_state">
+        <dt>Zip:
+        <dd><input type="text" name="mailing_zip" value="">
+        <dt>County:
+        <dd><input type="text" name="mailing_county">
+        <dt>Are you homeless? 
+        <dd><input type="radio" name="homeless" value="Yes">Yes
+            <input type="radio" name="homeless" value="No" checked>No
+        <dt>Are you applying for yourself?
+        <dd><input type="radio" name="applying" value="Yes" checked>Yes
+            <input type="radio" name="applying" value="No">No
+        <dt>Do you want us to send a voter registration card? (Yes or No)
+        <dd><input type="radio" name="voterreg" value="Yes">Yes
+            <input type="radio" name="voterreg" value="No" checked>No
+        <dt>What language do you speak most of the time?
+        <dd><input type="text" name="language" value="English">
+        <dt>Do you need an interpreter? (Yes or No)
+        <dd><input type="radio" name="interpreter" value="Yes">Yes
+            <input type="radio" name="interpreter" value="No" checked>No
+      </dl>
+      <b>Optional information</b>
+      <dl>
+        <dt>Race (Check all that apply) <br> Asian
+        <dd><input type="checkbox" name="race_asian" value="Yes">
+        <dt>Black / African American
+        <dd><input type="checkbox" name="race_black" value="Yes">
+        <dt>American Indian / Native Alaskan
+        <dd><input type="checkbox" name="race_aina" value="Yes">
+        <dt>Pacific Islander or Native Hawaiian
+        <dd><input type="checkbox" name="race_pinh" value="Yes">
+        <dt>White 
+        <dd><input type="checkbox" name="race_white" value="Yes">
+        <dt>Hispanic or Latino?
+        <dd><input type="radio" name="hispanic" value="Yes">Yes
+            <input type="radio" name="hispanic" value="No">No
+        <dt>Check this box if you are an American Indian living
+            on a reservation.
+        <dd><input type="radio" name="reservation" value="Yes">
+        <dd><input type=submit value=Submit>
+        <dt>
+      </dl>
+    </form>
+  {% endif %}
+{% endblock %}
+

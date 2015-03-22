@@ -1,0 +1,176 @@
+{% extends "layout.html" %}
+{% block body %}
+  {% if session.logged_in %}
+
+    <a href="/fill/{{ entry[0] }}">View completed form</a>
+    <hr>
+    <table>
+      <tr>
+        <th>Field</th>
+        <th>Value</th>
+      </tr>
+      
+      <tr>
+        <td> Medicare savings plan only?</td>
+        <td>{{ entry[1] }}</td>
+      </tr>
+      
+      <tr>  
+        <td> First name</td>
+        <td> {{ entry[2] }} </td>
+      </tr>
+      
+      <tr>
+        <td> Middle initial</td>
+        <td> {{ entry[3] }} </td>
+      </tr>
+      
+      <tr>
+        <td> Last name</td>
+        <td> {{ entry[4] }} </td>
+      </tr>
+      
+      <tr>  
+        <td> Date of birth</td>
+        <td> {{ entry[5] }} </td>
+      </tr>
+        
+      <tr>
+        <td> Sex</td>
+        <td> {{ entry[6] }} </td>
+      </tr>
+      
+      <tr>
+        <td> Social security number</td>
+        <td> {{ entry[7] }} </td>
+      </tr>
+      
+      <tr>
+        <td> Marital status</td>
+        <td> {{ entry[8] }} </td>
+      </tr>
+      
+      <tr>  
+        <td> Phone</td>
+        <td> {{ entry[9] }} </td>
+      </tr>
+      
+      <tr>  
+        <td> Other phone</td>
+        <td> {{ entry[10] }} </td>
+      </tr>
+      
+      <tr>  
+        <td> Address</td>
+        <td> {{ entry[11] }} </td>
+      </tr>
+      
+      <tr>
+        <td> City</td>
+        <td> {{ entry[12] }} </td>
+      </tr>
+      
+      <tr>  
+        <td> State</td>
+        <td> {{ entry[13] }} </td>
+      </tr>
+      
+      <tr>  
+        <td> Zip</td>
+        <td> {{ entry[14] }} </td>
+      </tr>
+      
+      <tr>
+        <td> County</td>
+        <td> {{ entry[15] }} </td>
+      
+      <tr>  
+        <td> Mailing address</td>
+        <td> {{ entry[16] }} </td>
+      </tr>
+      
+      <tr>  
+        <td> City</td>
+        <td> {{ entry[17] }} </td>
+      </tr>
+      
+      <tr>  
+        <td> State</td>
+        <td> {{ entry[18] }} </td>
+      </tr>
+      
+      <tr>  
+        <td> Zip</td>
+        <td> {{ entry[19] }} </td>
+      </tr>
+      
+      <tr>  
+        <td> County</td>
+        <td> {{ entry[20] }} </td>
+      </tr>
+      
+      <tr>  
+        <td> Homeless?</td>
+        <td> {{ entry[21] }} </td>
+      </tr>
+      
+      <tr>  
+        <td> Applying yourself?</td>
+        <td> {{ entry[22] }} </td>
+      </tr>
+      
+      <tr>
+        <td> Voter registration form?</td>
+        <td> {{ entry[23] }} </td>
+      </tr>
+      
+      <tr>
+        <td> Language</td>
+        <td> {{ entry[24] }} </td>
+      </tr>
+      
+      <tr>  
+        <td> Interpreter?</td>
+        <td> {{ entry[25] }} </td>
+      </tr>
+      
+      <tr>  
+        <td> Asian?</td>
+        <td> {{ entry[26] }} </td>
+      </tr>
+      
+      <tr>  
+        <td> Black/African American?</td>
+        <td> {{ entry[27] }} </td>
+      </tr>
+      
+      <tr>  
+        <td> American Indian/Native Alaskan?</td>
+        <td> {{ entry[28] }} </td>
+      </tr>
+      
+      <tr>  
+        <td> Pacific Islander/Native Hawaiian?</td>
+        <td> {{ entry[29] }} </td>
+      </tr>
+      
+      <tr>  
+        <td> White?</td>
+        <td> {{ entry[30] }} </td>
+      </tr>
+      
+      <tr>  
+        <td> Hispanic?</td>
+        <td> {{ entry[31] }} </td>
+      </tr>
+      
+      <tr>  
+        <td> Live on a reservation?</td>
+        <td> {{ entry[32] }} </td>
+      </tr>
+
+    </table>
+    </form>
+  {% endif %}
+{% endblock %}
+

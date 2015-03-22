@@ -1,0 +1,2423 @@
+---
+FieldType: Button
+FieldName: clear_button
+FieldNameAlt: This is a fillable form. Click to delete all data from the form.
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: ouo_date
+FieldNameAlt: Date received
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: ouo_cn
+FieldNameAlt: Case number
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: ouo_wn
+FieldNameAlt: Worker number
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 1_msp
+FieldNameAlt: I only want to apply for Medicare Savings Programs. I do not want to apply for other health care programs.
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 1_name_first
+FieldNameAlt: First name
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 1_name_mi
+FieldNameAlt: Middle initial
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 1_name_last
+FieldNameAlt: Last name
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 1_dob
+FieldNameAlt: Date of birth
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 1_sex
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: Female
+FieldStateOption: Male
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 1_ssn
+FieldNameAlt: Social Security number*
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 1_marital_status
+FieldNameAlt: Marital status
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 1_phone
+FieldNameAlt: Home phone
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 1_phone_other
+FieldNameAlt: Other phone
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 1_address
+FieldNameAlt: Street address
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 1_city
+FieldNameAlt: City
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 1_state
+FieldNameAlt: State
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 1_zip
+FieldNameAlt: Zip code
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 1_county
+FieldNameAlt: County
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 1_mailing_address
+FieldNameAlt: Mailing address (if different)
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 1_mailing_city
+FieldNameAlt: City
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 1_mailing_state
+FieldNameAlt: State
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 1_mailing_zip
+FieldNameAlt: Zip code
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 1_mailing_county
+FieldNameAlt: County
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 1_homeless
+FieldNameAlt: Check this box if you are homeless
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 1_applying
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 1_voterreg
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 1_language
+FieldNameAlt: What language do you speak most of the time?
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 1_interpreter
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 1_race_asian
+FieldNameAlt: Asian
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 1_race_black
+FieldNameAlt: Black/African American
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 1_race_aina
+FieldNameAlt: American Indian/Native Alaskan
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 1_race_pinh
+FieldNameAlt: Pacific Islander or Native Hawaiian
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 1_race_white
+FieldNameAlt: White
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 1_hispanic
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 1_reservation
+FieldNameAlt: Check this box if you are an American Indian living on a reservation.
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 2_name_1
+FieldNameAlt: Name (First, MI, Last)
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2_ssn_1
+FieldNameAlt: Social Security number*
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2_relationship_1
+FieldNameAlt: Relationship to you
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 2_sex_1
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: Female
+FieldStateOption: Male
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 2_marital_status_1
+FieldNameAlt: Marital status
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2_dob_1
+FieldNameAlt: Date of birth
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 2_applying_1
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 2_race_1
+FieldNameAlt: Optional: Race (Use codes below**)
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 2_hispanic_1
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 2_name_2
+FieldNameAlt: Name (First, MI, Last)
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2_ssn_2
+FieldNameAlt: Social Security number*
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2_relationship_2
+FieldNameAlt: Relationship to you
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 2_sex_2
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: Female
+FieldStateOption: Male
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 2_marital_status_2
+FieldNameAlt: Marital status
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2_dob_2
+FieldNameAlt: Date of birth
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 2_applying_2
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 2_race_2
+FieldNameAlt: Optional: Race (Use codes below**)
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 2_hispanic_2
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 2_name_3
+FieldNameAlt: Name (First, MI, Last)
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2_ssn_3
+FieldNameAlt: Social Security number*
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2_relationship_3
+FieldNameAlt: Relationship to you
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 2_sex_3
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: Female
+FieldStateOption: Male
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 2_marital_status_3
+FieldNameAlt: Marital status
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2_dob_3
+FieldNameAlt: Date of birth
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 2_applying_3
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 2_race_3
+FieldNameAlt: Optional: Race (Use codes below**)
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 2_hispanic_3
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 2_name_4
+FieldNameAlt: Name (First, MI, Last)
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2_ssn_4
+FieldNameAlt: Social Security number*
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2_relationship_4
+FieldNameAlt: Relationship to you
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 2_sex_4
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: Female
+FieldStateOption: Male
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 2_marital_status_4
+FieldNameAlt: Marital status
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2_dob_4
+FieldNameAlt: Date of birth
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 2_applying_4
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 2_race_4
+FieldNameAlt: Optional: Race (Use codes below**)
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 2_hispanic_4
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 2_name_5
+FieldNameAlt: Name (First, MI, Last)
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2_ssn_5
+FieldNameAlt: Social Security number*
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2_relationship_5
+FieldNameAlt: Relationship to you
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 2_sex_5
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: Female
+FieldStateOption: Male
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 2_marital_status_5
+FieldNameAlt: Marital status
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2_dob_5
+FieldNameAlt: Date of birth
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 2_applying_5
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 2_race_5
+FieldNameAlt: Optional: Race (Use codes below**)
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 2_hispanic_5
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 3_away
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes - fill in below
+---
+FieldType: Text
+FieldName: 3_name_first
+FieldNameAlt: First name
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 3_name_mi
+FieldNameAlt: Middle initial
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 3_name_last
+FieldNameAlt: Last name
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 3_ssn
+FieldNameAlt: Social Security number*
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 3_dob
+FieldNameAlt: Date of birth
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 3_relationship
+FieldNameAlt: Relationship to you
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 3_applying
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 3_date_left
+FieldNameAlt: Date left
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 3_date_return
+FieldNameAlt: Date expected to return
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 3_reason
+FieldNameAlt: Reason for not living at home
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 4_citizen
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No - fill in below
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 4_name_1
+FieldNameAlt: Name
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 4_status_1
+FieldNameAlt: Immigration status
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 4_date_1
+FieldNameAlt: Date entered the U.S.
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 4_sponsor_1
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 4_name_2
+FieldNameAlt: Name
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 4_status_2
+FieldNameAlt: Immigration status
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 4_date_2
+FieldNameAlt: Date entered the U.S.
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 4_sponsor_2
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 4_name_3
+FieldNameAlt: Name
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 4_status_3
+FieldNameAlt: Immigration status
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 4_date_3
+FieldNameAlt: Date entered the U.S.
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 4_sponsor_3
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 4_name_4
+FieldNameAlt: Name
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 4_status_4
+FieldNameAlt: Immigration status
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 4_date_4
+FieldNameAlt: Date entered the U.S.
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 4_sponsor_4
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 4_cvt
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 4_cvt_name
+FieldNameAlt: If yes, who?
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 4_med_er
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 4_med_er_name
+FieldNameAlt: If yes, who?
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 5_ar
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes - fill in below
+---
+FieldType: Text
+FieldName: 5_name_first
+FieldNameAlt: First name
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 5_name_mi
+FieldNameAlt: Middle initial
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 5_name_last
+FieldNameAlt: Last name
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 5_phone
+FieldNameAlt: Phone number
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 5_address
+FieldNameAlt: Street address
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 5_city
+FieldNameAlt: City
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 5_state
+FieldNameAlt: State
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 5_zip
+FieldNameAlt: Zip code
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 6_mnhome
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 6_mnhome_who
+FieldNameAlt: If no, who?
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 6_mnhome_explain
+FieldNameAlt: Explain
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 6_student
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 6_student_who
+FieldNameAlt: If yes, who?
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 6_pregnant
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: 2
+FieldStateOption: No
+FieldStateOption: Not Applicable (N/A)
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 6_pregnant_who
+FieldNameAlt: If yes, who?
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 6_pregnant_date
+FieldNameAlt: Due date
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 6_disability
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 6_disability_who
+FieldNameAlt: If yes, who?
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 6_military
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 6_military_who
+FieldNameAlt: If yes, who?
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 6_medbills
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 6_medbills_months
+FieldNameAlt: If yes, list months?
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 6_benefits
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 6_benefits_who
+FieldNameAlt: If yes, who?
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 7_selfemployed
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes - fill in below
+---
+FieldType: Text
+FieldName: 7_selfemployed_name1
+FieldNameAlt: Name
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 7_selfemployed_business1
+FieldNameAlt: Business name
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 7_selfemployed_date_start1
+FieldNameAlt: Start date
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 7_selfemployed_date_end1
+FieldNameAlt: End date
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 7_selfemployed_income1
+FieldNameAlt: Yearly income
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 7_selfemployed_name2
+FieldNameAlt: Name
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 7_selfemployed_business2
+FieldNameAlt: Business name
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 7_selfemployed_date_start2
+FieldNameAlt: Start date
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 7_selfemployed_date_end2
+FieldNameAlt: End date
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 7_selfemployed_income2
+FieldNameAlt: Yearly income
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 8_work
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes - fill in below
+---
+FieldType: Text
+FieldName: 8_name_1
+FieldNameAlt: Name
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 8_employer_1
+FieldNameAlt: Employer name
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 8_date_start_1
+FieldNameAlt: Start date
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 8_income_1
+FieldNameAlt: Gross income per pay period (include tips)
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 8_paid_1
+FieldNameAlt: How often paid?
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 8_seasonal_1
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 8_ended_1
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 8_date_ended_1
+FieldNameAlt: Date job ended
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 8_name_2
+FieldNameAlt: Name
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 8_employer_2
+FieldNameAlt: Employer name
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 8_date_start_2
+FieldNameAlt: Start date
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 8_income_2
+FieldNameAlt: Gross income per pay period (include tips)
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 8_paid_2
+FieldNameAlt: How often paid?
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 8_seasonal_2
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 8_ended_2
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 8_date_ended_2
+FieldNameAlt: Date job ended
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 8_name_3
+FieldNameAlt: Name
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 8_employer_3
+FieldNameAlt: Employer name
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 8_date_start_3
+FieldNameAlt: Start date
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 8_income_3
+FieldNameAlt: Gross income per pay period (include tips)
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 8_paid_3
+FieldNameAlt: How often paid?
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 8_seasonal_3
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 8_ended_3
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 8_date_ended_3
+FieldNameAlt: Date job ended
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 8_name_4
+FieldNameAlt: Name
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 8_employer_4
+FieldNameAlt: Employer name
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 8_date_start_4
+FieldNameAlt: Start date
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 8_income_4
+FieldNameAlt: Gross income per pay period (include tips)
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 8_paid_4
+FieldNameAlt: How often paid?
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 8_seasonal_4
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 8_ended_4
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 8_date_ended_4
+FieldNameAlt: Date job ended
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 9_income
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes - fill in below
+---
+FieldType: Text
+FieldName: 9_name_1
+FieldNameAlt: Name
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 9_type_1
+FieldNameAlt: Type of income
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 9_date_start_1
+FieldNameAlt: Start date
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 9_amount_1
+FieldNameAlt: Gross amount
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 9_received_1
+FieldNameAlt: How often received?
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 9_ended_1
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 9_date_ended_1
+FieldNameAlt: Date income ended
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 9_name_2
+FieldNameAlt: Name
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 9_type_2
+FieldNameAlt: Type of income
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 9_date_start_2
+FieldNameAlt: Start date
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 9_amount_2
+FieldNameAlt: Gross amount
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 9_received_2
+FieldNameAlt: How often received?
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 9_ended_2
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 9_date_ended_2
+FieldNameAlt: Date income ended
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 9_name_3
+FieldNameAlt: Name
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 9_type_3
+FieldNameAlt: Type of income
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 9_date_start_3
+FieldNameAlt: Start date
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 9_amount_3
+FieldNameAlt: Gross amount
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 9_received_3
+FieldNameAlt: How often received?
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 9_ended_3
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 9_date_ended_3
+FieldNameAlt: Date income ended
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 9_name_4
+FieldNameAlt: Name
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 9_type_4
+FieldNameAlt: Type of income
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 9_date_start_4
+FieldNameAlt: Start date
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 9_amount_4
+FieldNameAlt: Gross amount
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 9_received_4
+FieldNameAlt: How often received?
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 9_ended_4
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 9_date_ended_4
+FieldNameAlt: Date income ended
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 10_assets
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes - fill in below
+---
+FieldType: Text
+FieldName: 10_name_1
+FieldNameAlt: Owner(s) name
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 10_type_1
+FieldNameAlt: Type
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 10_bank_1
+FieldNameAlt: Name of bank
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 10_balance_1
+FieldNameAlt: Current balance
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 10_name_2
+FieldNameAlt: Owner(s) name
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 10_type_2
+FieldNameAlt: Type
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 10_bank_2
+FieldNameAlt: Name of bank
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 10_balance_2
+FieldNameAlt: Current balance
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 10_name_3
+FieldNameAlt: Owner(s) name
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 10_type_3
+FieldNameAlt: Type
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 10_bank_3
+FieldNameAlt: Name of bank
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 10_balance_3
+FieldNameAlt: Current balance
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 10_name_4
+FieldNameAlt: Owner(s) name
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 10_type_4
+FieldNameAlt: Type
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 10_bank_4
+FieldNameAlt: Name of bank
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 10_balance_4
+FieldNameAlt: Current balance
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 11_assets
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes - fill in below
+---
+FieldType: Text
+FieldName: 11_name_1
+FieldNameAlt: Owner(s) name
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 11_type_1
+FieldNameAlt: Type of trust
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 11_company_1
+FieldNameAlt: Name of company, bank or funeral home
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 11_value_1
+FieldNameAlt: Estimated value
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 11_name_2
+FieldNameAlt: Owner(s) name
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 11_type_2
+FieldNameAlt: Type of trust
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 11_company_2
+FieldNameAlt: Name of company, bank or funeral home
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 11_value_2
+FieldNameAlt: Estimated value
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 11_name_3
+FieldNameAlt: Owner(s) name
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 11_type_3
+FieldNameAlt: Type of trust
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 11_company_3
+FieldNameAlt: Name of company, bank or funeral home
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 11_value_3
+FieldNameAlt: Estimated value
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 11_name_4
+FieldNameAlt: Owner(s) name
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 11_type_4
+FieldNameAlt: Type of trust
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 11_company_4
+FieldNameAlt: Name of company, bank or funeral home
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 11_value_4
+FieldNameAlt: Estimated value
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 12_vehicle
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes - fill in below
+---
+FieldType: Text
+FieldName: 12_name_1
+FieldNameAlt: Owner(s) name
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 12_type_1
+FieldNameAlt: Type of vehicle
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 12_make_1
+FieldNameAlt: Year/Make/Model
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 12_value_1
+FieldNameAlt: Estimated value
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 12_owed_1
+FieldNameAlt: Amount owed
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 12_name_2
+FieldNameAlt: Owner(s) name
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 12_type_2
+FieldNameAlt: Type of vehicle
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 12_make_2
+FieldNameAlt: Year/Make/Model
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 12_value_2
+FieldNameAlt: Estimated value
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 12_owed_2
+FieldNameAlt: Amount owed
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 12_name_3
+FieldNameAlt: Owner(s) name
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 12_type_3
+FieldNameAlt: Type of vehicle
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 12_make_3
+FieldNameAlt: Year/Make/Model
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 12_value_3
+FieldNameAlt: Estimated value
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 12_owed_3
+FieldNameAlt: Amount owed
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 12_name_4
+FieldNameAlt: Owner(s) name
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 12_type_4
+FieldNameAlt: Type of vehicle
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 12_make_4
+FieldNameAlt: Year/Make/Model
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 12_value_4
+FieldNameAlt: Estimated value
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 12_owed_4
+FieldNameAlt: Amount owed
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 12_name_5
+FieldNameAlt: Owner(s) name
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 12_type_5
+FieldNameAlt: Type of vehicle
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 12_make_5
+FieldNameAlt: Year/Make/Model
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 12_value_5
+FieldNameAlt: Estimated value
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 12_owed_5
+FieldNameAlt: Amount owed
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 13_realestate
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes - fill in below
+---
+FieldType: Text
+FieldName: 13_name_1
+FieldNameAlt: Owner(s) name
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 13_address_1
+FieldNameAlt: Address
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 13_type_1
+FieldNameAlt: Type of property
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 13_value_1
+FieldNameAlt: Estimated value
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 13_name_2
+FieldNameAlt: Owner(s) name
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 13_address_2
+FieldNameAlt: Address
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 13_type_2
+FieldNameAlt: Type of property
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 13_value_2
+FieldNameAlt: Estimated value
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 14_accident
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes - fill in below
+---
+FieldType: Text
+FieldName: 14_name
+FieldNameAlt: Name(s)
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 14_date
+FieldNameAlt: Date happened
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 14_type
+FieldNameAlt: Type of accident or injury
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 14_lawsuit
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 15_health_insurance
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes - fill in below
+---
+FieldType: Button
+FieldName: 15_medicare
+FieldNameAlt: Medicare
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 15_medicared
+FieldNameAlt: Medicare Part D
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 15_medicareap
+FieldNameAlt: Medicare Advantage Plan
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 15_medical
+FieldNameAlt: Medical
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 15_hospital
+FieldNameAlt: Hospital only
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 15_hmo
+FieldNameAlt: HMO
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 15_rx
+FieldNameAlt: Prescription Drug
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 15_dental
+FieldNameAlt: Dental
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 15_vision
+FieldNameAlt: Vision
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 15_ltc
+FieldNameAlt: Long-term care
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 15_other
+FieldNameAlt: Check this box if you are an American Indian living on a reservation.
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 15_name
+FieldNameAlt: Policyholder's name
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 15_company
+FieldNameAlt: Insurance company's name
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 15_date_start
+FieldNameAlt: Start date
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 15_date_end
+FieldNameAlt: End date
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 15_policynumber
+FieldNameAlt: Policy number
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 15_covered
+FieldNameAlt: List everyone who is covered by this policy
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 15_medicare_cov_a
+FieldNameAlt: Policyholder has Medicare Part A coverage
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 15_medicare_cov_b
+FieldNameAlt: Policyholder has Medicare Part B coverage
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 15_medicare_cov_d
+FieldNameAlt: Policyholder has Medicare Part D coverage
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 15a_health_insurance
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: 1
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes - fill in below
+---
+FieldType: Button
+FieldName: 15_medicare 2
+FieldNameAlt: Medicare
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 15_medicared 2
+FieldNameAlt: Medicare Part D
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 15_medicareap 2
+FieldNameAlt: Medicare Advantage Plan
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 15_medical 2
+FieldNameAlt: Medical
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 15_hospital 2
+FieldNameAlt: Hospital only
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 15_hmo 2
+FieldNameAlt: HMO
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 15_rx 2
+FieldNameAlt: Prescription Drug
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 15_dental 2
+FieldNameAlt: Dental
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 15_vision 2
+FieldNameAlt: Vision
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 15_ltc 2
+FieldNameAlt: Long-term care
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 15_other 2
+FieldNameAlt: Check this box if you are an American Indian living on a reservation.
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 15_name 2
+FieldNameAlt: Policyholder's name
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 15_company 2
+FieldNameAlt: Insurance company's name
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 15_date_start 2
+FieldNameAlt: Start date
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 15_date_end 2
+FieldNameAlt: End date
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 15_policynumber 2
+FieldNameAlt: Policy number
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 15_covered 2
+FieldNameAlt: List everyone who is covered by this policy
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 15_medicare_cov_a 2
+FieldNameAlt: Policyholder has Medicare Part A coverage
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 15_medicare_cov_b 2
+FieldNameAlt: Policyholder has Medicare Part B coverage
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 15_medicare_cov_d 2
+FieldNameAlt: Policyholder has Medicare Part D coverage
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: 15_other_type
+FieldNameAlt: List other type
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 15_partd_plan
+FieldNameAlt: List name of Part D plan
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 15_parta_date_start
+FieldNameAlt: Start date (Part A)
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 15_partb_date_start
+FieldNameAlt: Start date (Part B)
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 15_partd_date_start
+FieldNameAlt: Start date (Part D)
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 15_other_type 2
+FieldNameAlt: List other type
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 15_partd_plan 2
+FieldNameAlt: List name of Part D plan
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 15_parta_date_start 2
+FieldNameAlt: Start date (Part A)
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 15_partb_date_start 2
+FieldNameAlt: Start date (Part B)
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 15_partd_date_start 2
+FieldNameAlt: Start date (Part D)
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Signature
+FieldName: DHS-5239M_signature
+FieldNameAlt: Your signature
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: DHS-5239M_signature_date
+FieldNameAlt: Date
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Signature
+FieldName: DHS-5239M_signature_ar
+FieldNameAlt: Signature of authorized representative
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: DHS-5239M_signature_ar_date
+FieldNameAlt: Date
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 5239M_remember_1
+FieldNameAlt: Sign and date this form?
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 5239M_remember_2
+FieldNameAlt: Attach the proofs you have? See page A for required proofs.
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: 5239M_remember_3
+FieldNameAlt: Mail or take this form to your county office? Do this right away even if you do not have all your proofs ready. See pages B and C at the back of this form for the address.
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
