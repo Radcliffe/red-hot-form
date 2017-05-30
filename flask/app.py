@@ -104,7 +104,7 @@ def fill_form(Id):
         fdf_file = open(tmp_file % Id, "w")
         fdf_file.write(fdf)
         fdf_file.close()
-        cmd = 'pdftk "{0}" fill_form "{1}" output "{2}" dont_ask'.format(pdf_file, tmp_file % Id, output_file % Id)
+        cmd = 'pdftk {0} fill_form {1} output {2} dont_ask'.format(pdf_file, tmp_file % Id, output_file % Id)
         os.system(cmd)
         os.remove(tmp_file % Id)
         return redirect(url_for('static', filename="filled%s.pdf" % Id))    
